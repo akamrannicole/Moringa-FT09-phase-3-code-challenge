@@ -2,6 +2,10 @@
 
 In this code challenge, you will be working with a Magazine domain.
 
+
+https://github.com/akamrannicole/Moringa-FT09-phase-3-code-challenge/assets/162133692/54093181-6af4-47e7-9317-9d00cc978bb5
+
+
 We have three models: `Author`, `Article`, and `Magazine`.
 
 For our purposes, an `Author` has many `Article`s, a `Magazine` has many
